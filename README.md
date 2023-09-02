@@ -1,22 +1,11 @@
-## Hey there, I'm Ivan Goncharov 👋
+### Hi there 👋
 
-### About me
+⚡ I am an [android bomber](https://github.com/dmitrijkotov634/android-bomber) developer
 
-- 🔭 I’m currently helping build the best tools for machine learning practitioners at [Weights & Biases](https://wandb.com).
-- 🎥 As well as creating educational videos about ML on [my YouTube channel](https://www.youtube.com/c/IvanGoncharovAI). 
-- 🌱 I’m currently learning more about domains of computer vision, NLP and MLOps.
-- 👯 I’m happy to collaborate on any exciting ML projects. 
-- 📫 How to reach me: You can reach me on [my Twitter](https://twitter.com/ivangrov) and [my LinkedIn](https://linkedin.com/in/ivangrov). You can email me at ivangoncharovai@gmail.com / ivan@wandb.com. 
-- ⚡ Fun fact: I'm really into music and enjoy spending my time jamming on the guitar. 
+|[![Github stats](https://github-readme-stats.vercel.app/api?username=dmitrijkotov634&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
+|:---:|:---:|
+|[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dmitrijkotov634&theme=radical&layout=compact)](https://wakatime.com/dmitrijkotov634)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrijkotov634&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
 
+### Contact me 🔗
 
-### Github Stats
-
-<p>
-   <a href="https://img.shields.io/github/followers/ivangrov?label=Follow&style=social">
-      <img alt="Coverage" src="https://img.shields.io/github/followers/ivangrov?label=Follow&style=social" height="25">
-   </a>
-   <img alt="Last Update" src="https://img.shields.io/github/last-commit/ivangrov/ivangrov?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=ivangrov&count_private=true&show_icons=true&count_private=true)
+- <a href="https://t.me/waveteambot"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=14 height=14 /> Telegram</a>
