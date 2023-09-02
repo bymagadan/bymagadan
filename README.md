@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Dmitry👋
 
-⚡ I am an [android bomber](https://github.com/dmitrijkotov634/android-bomber) developer
+⚡ I am a beginner web designer
 
 |[![Github stats](https://github-readme-stats.vercel.app/api?username=dmitrijkotov634&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
 |:---:|:---:|
