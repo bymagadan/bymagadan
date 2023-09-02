@@ -4,3 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bymagadan&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://nsknews.info/upload/medialibrary/a6e/skrynnik7.jpg" width=225 height=147 />
 
+
+<img src="https://medialeaks.ru/wp-content/uploads/2018/08/1-48-600x400.jpg" width=225 height=147 />
